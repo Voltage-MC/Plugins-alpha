@@ -1,0 +1,121 @@
+---
+#NORMAL
+map: Dungeon
+author: VirvoltaSurMC
+
+maxslots: 2
+minslots: 2
+
+starttime: 15
+gametime: 6000
+finishtime: 15
+
+lobby:
+- - 1373
+  - 80
+  - 368
+
+#TEAM
+
+teams:
+- - "Red"
+  - "Blue"
+
+Red-spawn:
+- - 1373
+  - 9
+  - 525
+
+Blue-spawn:
+- - 1373
+  - 9
+  - 558
+
+#SOLO
+
+1-spawn:
+- - 1373
+  - 9
+  - 542
+
+2-spawn:
+- - 1373
+  - 9
+  - 542
+
+#ONESPAWN
+
+spawn:
+- - 1373
+  - 9
+  - 542
+
+#BED
+
+Red-bed:
+- - 1373
+  - 9
+  - 542
+
+Blue-bed:
+- - 1373
+  - 9
+  - 542
+
+#CHEST
+Normal-chestitems:
+- - 5
+  - 0
+  - 20
+- - 5
+  - 0
+  - 8
+- - 332
+  - 0
+  - 16
+- - 364
+  - 0
+  - 16
+- - 307
+  - 0
+  - 1
+- - 308
+  - 0
+  - 1
+
+Op-chestitems:
+- - 1
+  - 0
+  - 30
+- - 1
+  - 0
+  - 20
+
+Normal-chestspawns:
+- 0
+   - - 1345
+     - 60
+     - 70
+- 1
+  - - 509
+    - 60
+    - 70
+      
+Op-chestspawns:
+- 0
+   - - 1345
+     - 60
+     - 70
+- 1
+  - - 509
+    - 60
+    - 70
+
+#FLOATING
+
+Floating-spawn:
+- - 1377
+  - 80
+  - 368
+
+...

@@ -1,0 +1,49 @@
+---
+#NORMAL
+map: Hika1
+author: VirvoltaSurMC
+
+maxslots: 2
+minslots: 2
+
+starttime: 15
+gametime: 3600
+finishtime: 15
+
+lobby:
+  - 10.5
+  - 5
+  - -21.5
+  - 0
+
+#TEAM
+
+teams:
+  - "Red"
+  - "Blue"
+
+Red-spawn:
+  - 249.5
+  - 12
+  - 255.5
+  - 180
+
+Blue-spawn:
+  - 249.5
+  - 12
+  - 201.5
+  - 0
+
+#BED
+
+Red-bed:
+  - 249.5
+  - 6.5
+  - 255.5
+
+Blue-bed:
+  - 249.5
+  - 6.5
+  - 201.5
+
+...

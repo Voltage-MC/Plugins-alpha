@@ -1,0 +1,7 @@
+name: CORE
+main: Voltage\Core\Core
+version: 0.1
+load: "STARTUP"
+api: [3.0.0,4.0.0]
+author: Virvolta
+website: Voltage.eu

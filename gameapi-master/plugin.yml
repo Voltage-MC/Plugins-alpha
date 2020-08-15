@@ -1,0 +1,7 @@
+name: GAME
+main: Voltage\Api\Game
+version: 0.1
+depend: ["CORE"]
+api: [3.0.0,4.0.0]
+author: Virvolta
+website: Voltage.eu

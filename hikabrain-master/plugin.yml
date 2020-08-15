@@ -1,0 +1,7 @@
+name: HikaBrain
+main: Voltage\Game\HikaBrain
+version: 0.1
+depend: ["GAME"]
+api: [3.0.0,4.0.0]
+author: Virvolta
+website: Voltage.eu
